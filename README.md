@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="TO_CHANGE">
+    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
       Challenge
     </a>
   </h3>
@@ -50,7 +50,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](TO_CHANGE) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5) was to build an application to complete the given user stories.
 
 ## How To Use
 
