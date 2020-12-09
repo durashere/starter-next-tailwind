@@ -5,9 +5,15 @@ export default function Home() {
     <div className="">
       <Head>
         <title>Starter Next Tailwind</title>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Material+Icons"
+          rel="stylesheet"
+        />
       </Head>
 
-      <main className=""></main>
+      <main className="">
+        <p>Main</p>
+      </main>
 
       <footer className="">
         <p className="pb-4 font-mont text-gray-300 text-sm font-semibold">
