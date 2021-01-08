@@ -1,21 +1,21 @@
 module.exports = {
-  purge: ["./pages/**/*.js", "./components/**/*.js"],
+  purge: ['./src/pages/**/*.js', './src/components/**/*.js'],
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
-      mon: ["Montserrat", "sans-serif"],
+      mon: ['Montserrat', 'sans-serif'],
       // heb: ["Heebo", "sans-serif"],
       // pop: ["Poppins", "sans-serif"],
     },
     colors: {
       transparent: {
-        DEFAULT: "transparent",
+        DEFAULT: 'transparent',
       },
       white: {
-        DEFAULT: "#FFFFFF",
+        DEFAULT: '#FFFFFF',
       },
       black: {
-        DEFAULT: "#000000",
+        DEFAULT: '#000000',
       },
       gray: {
         // cA9A9A9: "#A9A9A9",
@@ -43,4 +43,4 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-}
+};
