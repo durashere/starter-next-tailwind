@@ -1,14 +1,16 @@
 import Head from 'next/head';
-import Default from '../components/layouts/DefaultLayout';
+import DefaultLayout from '../components/layouts/DefaultLayout';
 import HomePage from '../components/templates/HomePage';
 
-export default function Home() {
+const Index = () => {
   return (
-    <Default>
+    <DefaultLayout>
       <Head>
         <title>NextJS Boilerplate</title>
       </Head>
       <HomePage />
-    </Default>
+    </DefaultLayout>
   );
-}
+};
+
+export default Index;
